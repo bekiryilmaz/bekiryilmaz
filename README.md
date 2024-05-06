@@ -1,4 +1,6 @@
-### Hi there 👋
+
+👋 Hi, I'm Bekir. I am a driven software professional focused on enterprise-level projects.
+You can find more details on my [linkedin profile](https://www.linkedin.com/in/bekir-yilmaz/).
 
 <!--
 **bekiryilmaz/bekiryilmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
