@@ -1,5 +1,8 @@
 
-👋 Hi, I'm Bekir. I am a driven software professional focused on enterprise-level projects.
+👋 Hi, I'm Bekir. 
+
+I am a driven software professional focused on enterprise-level projects.
+
 You can find more details on my [linkedin profile](https://www.linkedin.com/in/bekir-yilmaz/).
 
 <!--
